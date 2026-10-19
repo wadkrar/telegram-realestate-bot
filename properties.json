@@ -1,0 +1,28 @@
+{
+  "properties": [
+    {
+      "id": 1791716902078,
+      "type": "فيلا",
+      "price": "٥٠ الف",
+      "description_notes": "كل الخدمات",
+      "location": "بحري الخرطوم",
+      "photos": [
+        "AgACAgQAAxkBAAIFKGrLeZj4jIZCScwIrGMXD5WWWQZaAAIwEGsb0sBZUqIxau-BK5gnAQADAgADeQADPQQ"
+      ],
+      "paymentId": "AgACAgQAAxkBAAIFK2rLecxZuUlBxdhJAcH7KZvPX2J2AAIxEGsb0sBZUge0VVj0yU0TAQADAgADeQADPQQ",
+      "publisher": "D1007",
+      "publisherUsername": "wadkrar"
+    },
+    {
+      "id": 1791717352159,
+      "type": "شقة",
+      "price": "١٠٠ الف",
+      "description_notes": "فل خدمات",
+      "location": "الخرطوم بحيرة",
+      "photos": [],
+      "paymentId": "AgACAgQAAxkBAAIFOmrLe466MCKP9XjlI7xEQEzHFwABSgACMhBrG9LAWVIAARCdp9crLxcBAAMCAAN5AAM9BA",
+      "publisher": "D1007",
+      "publisherUsername": "wadkrar"
+    }
+  ]
+}
