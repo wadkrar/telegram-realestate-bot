@@ -3,7 +3,7 @@ const editJsonFile = require('edit-json-file');
 
 
 // أضافة التوكن (لمنسوخة من بوت MyFather )
-const bot = new Telegraf('8915590286:AAGrGETw6p-9_DZR-Ja0792MuQCfazAjuJI');
+const bot = new Telegraf('8915590286:AAF2G49kL2Y4MuaOS2nd0XdFysP8vR4faFc');
 
 
 //==========| Menu Button    (القائمة الجانبية)  |======================================
