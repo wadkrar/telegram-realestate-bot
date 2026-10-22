@@ -1,6 +1,14 @@
 const {Telegraf, Markup, Scenes, session} = require('telegraf');
 const editJsonFile = require('edit-json-file');
+const express = require('express');
 
+const app = express();
+const PORT = process.env.PORT || 3000;
+app.get('/', (req, res) => {
+ res.send('Bot is running successfulling!');});
+
+app.listen(PORT, () => { console.log(`Server is listening on port ${PORT}`);
+});
 
 // أضافة التوكن (لمنسوخة من بوت MyFather )
 const bot = new Telegraf('8915590286:AAF2G49kL2Y4MuaOS2nd0XdFysP8vR4faFc');
